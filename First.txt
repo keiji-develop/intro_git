@@ -9,3 +9,5 @@ Git　commitの練習をしました
 Git rm　練習しました
 
 Git Status 練習しました
+
+git diff 練習しました
