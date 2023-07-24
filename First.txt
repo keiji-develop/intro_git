@@ -7,3 +7,5 @@ Git　commitの練習をしました
 コミットの練習中です
 
 Git rm　練習しました
+
+Git Status 練習しました
